@@ -18,8 +18,8 @@ Currently improving my full stack skills and building projects to strengthen my 
     🚀 Looking for opportunities to grow as a developer
     
 ###    📫 Contact
-    📧 Email: your@email.com
-    💼 LinkedIn: your-linkedin
+    📧 Email: jeramy9876@gmail.com
+    💼 LinkedIn: https://www.linkedin.com/in/jeramy-mairena19/
     ⚡ Fun Fact
 
 I enjoy understanding not only how to code, but how everything works behind the scenes (including networks 👀)
