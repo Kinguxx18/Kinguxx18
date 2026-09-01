@@ -6,12 +6,8 @@ I also have a background in networking, which helps me understand systems from a
 
 Currently improving my full stack skills and building projects to strengthen my portfolio.
 
-    🧰 Tech Stack
-    ⚙️ JavaScript practice & scripts
     📊 Stats
     🎯 Currently
-    📚 Learning more about backend and databases
-    🛠️ Improving personal projects
     🚀 Looking for opportunities to grow as a developer
     
 ###    📫 Contact
