@@ -4,8 +4,6 @@
 I'm a developer in training focused on building functional and well-structured web applications.
 I also have a background in networking, which helps me understand systems from a broader perspective.
 
-Currently improving my full stack skills and building projects to strengthen my portfolio.
-
     📊 Stats
     🎯 Currently
     🚀 Looking for opportunities to grow as a developer
