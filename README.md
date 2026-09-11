@@ -19,6 +19,3 @@ I enjoy understanding not only how to code, but how everything works behind the 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kinguxx&theme=dracula)](https://git.io/streak-stats)
-
-
-![Kinguxx18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinguxx18&show_icons=true&theme=radical)
