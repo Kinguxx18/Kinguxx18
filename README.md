@@ -1,21 +1,33 @@
-###    Hey, I´m Jeramy!!
-    🧠 About Me
+# 👋 Hey, I'm Jeramy!
 
-I'm a developer in training focused on building functional and well-structured web applications.
-I also have a background in networking, which helps me understand systems from a broader perspective.
+### 💻 Full-Stack Web Developer
 
-    📊 Stats
-    🎯 Currently
-    🚀 Looking for opportunities to grow as a developer
-    
-###    📫 Contact
-    📧 Email: jeramy9876@gmail.com
-    💼 LinkedIn: https://www.linkedin.com/in/jeramy-mairena19/
-    ⚡ Fun Fact
+Developer focused on building functional and well-structured web applications.
 
-I enjoy understanding not only how to code, but how everything works behind the scenes (including networks 👀)
+---
 
-### GitHub Stats
+## 🛠️ Technologies
 
+**Frontend**
+- Angular
+- React
+- TypeScript
+- HTML5
+- CSS3
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kinguxx&theme=dracula)](https://git.io/streak-stats)
+**Backend**
+- .NET / C#
+- REST APIs
+- Entity Framework
+
+**Database & Tools**
+- SQL
+- Git & GitHub
+- GraphQL
+- KeystoneJS
+
+## 📫 Contact
+
+📧 jeramy9876@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/jeramy-mairena/)  
+🐙 [GitHub](https://github.com/Kinguxx18)
