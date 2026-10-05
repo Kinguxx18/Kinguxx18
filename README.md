@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jeramy-mairena/"><img src="https://img.shields.io/badge/LinkedIn-3d6bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Kinguxx18"><img src="https://img.shields.io/badge/GitHub-8f4dff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:jeramy9876@gmail.com"><img src="https://img.shields.io/badge/Email-6f93ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -44,17 +43,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-
-## 🚀 Featured project — KINGUXX Portfolio
-
-My personal portfolio, built as a full stack monorepo:
-
-- **Front end:** React 19 + TypeScript + Vite, CSS Modules, real routes with lazy-loaded pages.
-- **Back end:** KeystoneJS headless CMS (SQLite) consumed through **GraphQL**.
-- **Contact form:** sends real emails from the page itself with **Resend**, protected by reCAPTCHA and validated on both client and server.
-- **Quality:** Vitest tests, ESLint, accessible components and a responsive layout.
-
-👉 [View the repository](https://github.com/Kinguxx18/Portfolio-Fullstack)
 
 ## ☕ Beyond the code
 
