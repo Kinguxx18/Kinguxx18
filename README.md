@@ -56,14 +56,6 @@ My personal portfolio, built as a full stack monorepo:
 
 👉 [View the repository](https://github.com/Kinguxx18/Portfolio-Fullstack)
 
----
-
-## 🌱 Currently
-
-- Polishing my portfolio and its content workflow.
-- Deepening my skills in Angular, .NET and API design.
-- Open to new opportunities and collaborations.
-
 ## ☕ Beyond the code
 
 Coffee, running, a healthy lifestyle and the occasional game.
