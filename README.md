@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech stack
+🛠️ Tech stack
 
 **Front End**
 
@@ -44,21 +44,15 @@
 
 ---
 
-## ☕ Beyond the code
+☕ Beyond the code
 
+Coffee, running, a healthy lifestyle and the occasional game.
+
+☕ Beyond the code
 Coffee, running, a healthy lifestyle and the occasional game.
 
 ---
 
-## 📫 Let's connect
-- Deepening my skills in Angular, .NET and API design.
-- Open to new opportunities and collaborations.
-
-## ☕ Beyond the code
-Coffee, running, a healthy lifestyle and the occasional game.
-
----
-
-## 📫 Let's connect
+📫 Let's connect
 💼 [LinkedIn](https://www.linkedin.com/in/jeramy-mairena/)
 🐙 [GitHub](https://github.com/Kinguxx18)
