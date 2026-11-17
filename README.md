@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Jeramy 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:2D1457,100:3D1F7A&height=190&section=header&text=Hey,%20I'm%20Jeramy%20👋&fontColor=FFFFFF&fontSize=42&fontAlignY=36&animation=fadeIn" alt="Header" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=6F93FF&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Angular+%7C+React+%7C+.NET;Building+clean%2C+well-structured+apps" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=8F4DFF&background=1A0B2E00&center=true&vCenter=true&width=560&lines=Full+Stack+Web+Developer;Angular+%7C+React+%7C+.NET+%7C+Node.js;Building+clean%2C+well-structured+apps" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -10,49 +12,71 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeramy-mairena/"><img src="https://img.shields.io/badge/LinkedIn-3d6bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Kinguxx18"><img src="https://img.shields.io/badge/GitHub-8f4dff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jeramy-mairena/"><img src="https://img.shields.io/badge/LinkedIn-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=6F93FF" alt="LinkedIn" /></a>
+  <a href="https://github.com/Kinguxx18"><img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=8F4DFF" alt="GitHub" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,100:3D1F7A&height=3" width="100%" alt="" />
 
-🛠️ Tech stack
+## 🛠️ Tech stack
 
 **Front End**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Angular-1A0B2E?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-1A0B2E?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1A0B2E?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-1A0B2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1A0B2E?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-1A0B2E?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1A0B2E?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+</p>
 
 **Back End**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-8f4dff?style=flat-square)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![KeystoneJS](https://img.shields.io/badge/KeystoneJS-2d6cdf?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/.NET_Core-1A0B2E?style=for-the-badge&logo=dotnet&logoColor=8F4DFF" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/C%23-1A0B2E?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/Entity_Framework-1A0B2E?style=for-the-badge" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/Node.js-1A0B2E?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-1A0B2E?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-1A0B2E?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GraphQL-1A0B2E?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/KeystoneJS-1A0B2E?style=for-the-badge" alt="KeystoneJS" />
+  <img src="https://img.shields.io/badge/SQL-1A0B2E?style=for-the-badge" alt="SQL" />
+</p>
 
-**Database & Tools**
+**Cloud**
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-1A0B2E?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-1A0B2E?style=for-the-badge" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-1A0B2E?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
+</p>
 
----
+**Tools & Practices**
 
-☕ Beyond the code
+<p>
+  <img src="https://img.shields.io/badge/Git-1A0B2E?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1A0B2E?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Claude-1A0B2E?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/OOP-1A0B2E?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/Agile-1A0B2E?style=for-the-badge" alt="Agile" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,100:3D1F7A&height=3" width="100%" alt="" />
+
+## ☕ Beyond the code
 
 Coffee, running, a healthy lifestyle and the occasional game.
 
-☕ Beyond the code
-Coffee, running, a healthy lifestyle and the occasional game.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0B2E,100:3D1F7A&height=3" width="100%" alt="" />
 
----
+## 📫 Let's connect
 
-📫 Let's connect
-💼 [LinkedIn](https://www.linkedin.com/in/jeramy-mairena/)
+💼 [LinkedIn](https://www.linkedin.com/in/jeramy-mairena/)<br/>
 🐙 [GitHub](https://github.com/Kinguxx18)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D1F7A,50:2D1457,100:1A0B2E&height=110&section=footer" alt="Footer" width="100%" />
+</p>
